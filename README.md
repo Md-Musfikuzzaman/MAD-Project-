@@ -7,8 +7,8 @@ registrations and check in attendees, while students discover and book them.
 
 | Member                | Student ID   | Work package                                   |
 | --------------------- | ------------ | ---------------------------------------------- |
-| ABDUL QUAYUM MAHI     | _(add ID)_   | Authentication, roles & profiles; QR check-in  |
-| MD. MUSFIKUZZAMAN     | _(add ID)_   | Discovery & saved events; booking & tickets    |
+| ABDUL QUAYUM MAHI     | 22-49645-3   | Authentication, roles & profiles; QR check-in  |
+| MD. MUSFIKUZZAMAN     | 23-52797-2   | Discovery & saved events; booking & tickets    |
 | MD SHOHAG SHAHJAHAN   | 22-49055-3   | Shared setup; organizer events & attendees     |
 
 This is the **midterm frontend**: every screen runs on mock data kept in a
